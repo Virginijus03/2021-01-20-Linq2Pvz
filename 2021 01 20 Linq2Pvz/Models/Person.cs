@@ -29,8 +29,6 @@ namespace _2021_01_20_Linq2Pvz.Models
             }
         }
 
-
-
-
+        public string LastName { get; internal set; }
     }
 }
